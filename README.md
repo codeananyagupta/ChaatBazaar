@@ -35,7 +35,7 @@ Follow these steps to contribute your changes to **ChaatBazar**:
 
 1. **🌟 Star & Fork the Repository**  
    Click the **“Fork”** the repo to create your own copy:  
-   👉 [https://github.com/PatelHarsh2006/ChaatBazaar](https://github.com/PatelHarsh2006/ChaatBaazar)
+   👉 [https://github.com/PatelHarsh2006/ChaatBazaar](https://github.com/PatelHarsh2006/ChaatBazaar)
 
 2. **📥 Clone Your Fork**  
    Use the following command to clone your forked repository to your local machine:
